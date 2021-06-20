@@ -1,0 +1,48 @@
+
+
+
+Q1.
+
+n rows @for loop
+n = 1 - 100 @for loop
+n = entered by the user @cin
+input 1 - 100 pyramid
+or try again @if for loopX @while loop
+
+
+
+Airline Reservation System
+
+
+const capacity max 10 seats
+
+input 1 = First Class
+assign a seat
+sec (seats 1-5)
+
+input 2 = Economy
+assign a seat
+sec (seats 6-10)
+
+cout boarding passs indicating
+-person's seat number
+-FirstC or Economy
+
+one-dimensional array Boolen
+for represent the seating chart of the plane.
+emty true
+assigned false
+
+if economy full = ask for first
+if yes go to
+if no "Next flight leaves in 3 hours"
+
+
+
+PELAJARAN SEHABIS LAB TEST:
+
+Soal lab test ada dua 1. soal tentang function loop array 2. loop logic math.
+Yang dibutuhkan adalah perbanyak latihan soal dari yang dasar sampe yang paling susah.
+setiap hari.
+coba memahami lebih dalam dengan praktek.
+belajar struktur soal dan program harus bagaimana.
