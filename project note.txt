@@ -1,0 +1,38 @@
+
+
+ Covid-19 screening and testing system for passengers arrived to Malaysia
+
+- add
+- edit
+- search
+- remove passenger details
+
+1. Register the passenger for PCR test
+2. display the related details.
+
+PROJECT REQUIREMENTS
+ Loops and user input
+ Functions (void and value-returned)
+ Function overloading
+ Strings
+ 1D and 2D arrays
+ Pointers
+ Files and/or data structure
+
+
+Output:
+1. Display welcome page and info. press 1 to regist press 2 for display the related details.
+2. (regist) input name, phone number, home country, address, age, arrival date.
+3. (display detail) press one to go to main page, press 2 to edit, press 3 to search, press 4 to remove, press 0 to exit.
+4. (select to edit) choose profile to edit.
+5. (search name) enter name to be searched.
+6. (select to remove) choose profile to remove.
+
+
+   Name  Phone Number  Country    Arrival Date
+1. Budi  123           Indonesia  1234
+
+
+
+Note for the code:
+- display array
